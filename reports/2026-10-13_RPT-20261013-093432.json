@@ -1,0 +1,208 @@
+{
+  "report_id": "RPT-20261013-093432",
+  "report_date": "2026-10-13",
+  "generated_at": "2026-10-13T09:34:32.604965+00:00",
+  "market_session": "Pre-Market Session (US Eastern / NASDAQ)",
+  "market_overview": "Pre-market analysis tracking 7 primary watchlist assets. Sentiment distribution reveals 3 bullish catalysts, 2 bearish risk events, and 2 neutral/mixed developments. Key themes are driven by enterprise AI infrastructure, cloud partnerships, and automotive regulatory inquiries.",
+  "stocks_to_watch": [
+    {
+      "symbol": "NVDA",
+      "company_name": "NVIDIA Corporation",
+      "priority_score": 9.4,
+      "rank": 1,
+      "dominant_sentiment": "positive",
+      "key_headline": "NVIDIA Unveils Next-Gen Blackwell Architecture With Record AI Chip Demand and 40% Margin Surge. NVIDIA Corporation faces developments in earnings & revenue.",
+      "selection_rationale": "High-impact Earnings & Revenue catalyst with positive sentiment score of +1.00. Bullish catalyst meets oversold technical condition (RSI 25.0). Elevated trading volume preceding news announcement. Prior session close at $138.76 (+0.10%).",
+      "recent_price": 138.9,
+      "price_change_pct": 0.1,
+      "rsi": 24.97,
+      "technical_bias": "Oversold",
+      "material_risks": [
+        "Execution delays or broader macroeconomic selloffs could temper positive momentum."
+      ],
+      "article_urls": [
+        "https://finance.yahoo.com/news/nvidia-unveils-blackwell-record-demand-demo-2026.html"
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "company_name": "Tesla Inc.",
+      "priority_score": 8.2,
+      "rank": 2,
+      "dominant_sentiment": "negative",
+      "key_headline": "Tesla Recalls 85,000 Model Y Vehicles Over Steering Firmware Glitch, Safety Regulators Open Probe. Tesla Inc. faces developments in product & innovation.",
+      "selection_rationale": "High-impact Product & Innovation catalyst with negative sentiment score of -1.00. Adverse news development collides with overbought technical levels (RSI 68.0). Prior session close at $220.44 (+0.39%).",
+      "recent_price": 221.3,
+      "price_change_pct": 0.39,
+      "rsi": 68.01,
+      "technical_bias": "Overbought",
+      "material_risks": [
+        "Legal or regulatory scrutiny could result in prolonged margin compression."
+      ],
+      "article_urls": [
+        "https://marketwatch.com/story/tesla-recalls-model-y-steering-probe-demo-2026.html"
+      ]
+    },
+    {
+      "symbol": "META",
+      "company_name": "Meta Platforms Inc.",
+      "priority_score": 7.45,
+      "rank": 3,
+      "dominant_sentiment": "positive",
+      "key_headline": "Meta Platforms Reports Strong Advertising Click-Through Rates Driven by Llama-Powered Ad Creatives. Meta Platforms Inc. faces developments in general market development.",
+      "selection_rationale": "High-impact General Market Development catalyst with positive sentiment score of +1.00. Bullish catalyst meets oversold technical condition (RSI 34.3). Prior session close at $594.94 (-0.38%).",
+      "recent_price": 592.7,
+      "price_change_pct": -0.38,
+      "rsi": 34.33,
+      "technical_bias": "Oversold",
+      "material_risks": [
+        "Execution delays or broader macroeconomic selloffs could temper positive momentum."
+      ],
+      "article_urls": [
+        "https://marketwatch.com/story/meta-platforms-reports-strong-ad-rates-llama-demo-2026.html"
+      ]
+    },
+    {
+      "symbol": "MSFT",
+      "company_name": "Microsoft Corporation",
+      "priority_score": 7.15,
+      "rank": 4,
+      "dominant_sentiment": "positive",
+      "key_headline": "Microsoft Azure Scores $3.2B Department of Defense AI Simulation Contract. Microsoft Corporation faces developments in contracts & partnerships.",
+      "selection_rationale": "High-impact Contracts & Partnerships catalyst with positive sentiment score of +1.00. Prior session close at $430.60 (-0.57%).",
+      "recent_price": 428.15,
+      "price_change_pct": -0.57,
+      "rsi": 73.59,
+      "technical_bias": "Overbought",
+      "material_risks": [
+        "Execution delays or broader macroeconomic selloffs could temper positive momentum.",
+        "Elevated RSI indicates short-term overbought risk despite positive headline."
+      ],
+      "article_urls": [
+        "https://finance.yahoo.com/news/microsoft-azure-scores-dod-contract-demo-2026.html"
+      ]
+    },
+    {
+      "symbol": "AMZN",
+      "company_name": "Amazon.com Inc.",
+      "priority_score": 7.0,
+      "rank": 5,
+      "dominant_sentiment": "negative",
+      "key_headline": "Amazon Faces European Union Antitrust Scrutiny Over Merchant Logistics Exclusivity Bundles. Amazon.com Inc. faces developments in product & innovation.",
+      "selection_rationale": "High-impact Product & Innovation catalyst with negative sentiment score of -1.00. Prior session close at $194.61 (+0.10%).",
+      "recent_price": 194.8,
+      "price_change_pct": 0.1,
+      "rsi": 21.36,
+      "technical_bias": "Oversold",
+      "material_risks": [
+        "Legal or regulatory scrutiny could result in prolonged margin compression.",
+        "Deep oversold conditions may trigger technical mean-reversion bounces."
+      ],
+      "article_urls": [
+        "https://news.google.com/articles/amazon-faces-eu-antitrust-scrutiny-demo-2026.html"
+      ]
+    },
+    {
+      "symbol": "AAPL",
+      "company_name": "Apple Inc.",
+      "priority_score": 3.6,
+      "rank": 6,
+      "dominant_sentiment": "neutral",
+      "key_headline": "Apple Signs Multi-Year AI Cloud Infrastructure Agreement with Alphabet to Power Siri Intelligence. Apple Inc. faces developments in earnings & revenue.",
+      "selection_rationale": "High-impact Earnings & Revenue catalyst with neutral sentiment score of +0.00. Prior session close at $235.07 (-1.09%).",
+      "recent_price": 232.5,
+      "price_change_pct": -1.09,
+      "rsi": 53.26,
+      "technical_bias": "Neutral Range",
+      "material_risks": [
+        "Lack of strong directional catalyst may lead to sideways consolidation."
+      ],
+      "article_urls": [
+        "https://cnbc.com/2026/10/13/apple-signs-multiyear-ai-cloud-deal-with-alphabet-demo.html"
+      ]
+    },
+    {
+      "symbol": "GOOGL",
+      "company_name": "Alphabet Inc.",
+      "priority_score": 3.6,
+      "rank": 7,
+      "dominant_sentiment": "neutral",
+      "key_headline": "Apple Signs Multi-Year AI Cloud Infrastructure Agreement with Alphabet to Power Siri Intelligence. Alphabet Inc. faces developments in earnings & revenue.",
+      "selection_rationale": "High-impact Earnings & Revenue catalyst with neutral sentiment score of +0.00. Prior session close at $182.82 (-0.78%).",
+      "recent_price": 181.4,
+      "price_change_pct": -0.78,
+      "rsi": 60.13,
+      "technical_bias": "Neutral Range",
+      "material_risks": [
+        "Lack of strong directional catalyst may lead to sideways consolidation."
+      ],
+      "article_urls": [
+        "https://cnbc.com/2026/10/13/apple-signs-multiyear-ai-cloud-deal-with-alphabet-demo.html"
+      ]
+    }
+  ],
+  "high_impact_events": [
+    {
+      "symbol": "NVDA",
+      "company": "NVIDIA Corporation",
+      "category": "Earnings & Revenue",
+      "sentiment": "positive",
+      "score": 1.0,
+      "headline": "NVIDIA Unveils Next-Gen Blackwell Architecture With Record AI Chip Demand and 40% Margin Surge. NVIDIA Corporation faces developments in earnings & revenue.",
+      "evidence": "NVIDIA Unveils Next-Gen Blackwell Architecture With Record AI Chip Demand and 40% Margin Surge.",
+      "source_url": "https://finance.yahoo.com/news/nvidia-unveils-blackwell-record-demand-demo-2026.html",
+      "published_at": "2026-10-13T07:15:00+00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "company": "Tesla Inc.",
+      "category": "Product & Innovation",
+      "sentiment": "negative",
+      "score": -1.0,
+      "headline": "Tesla Recalls 85,000 Model Y Vehicles Over Steering Firmware Glitch, Safety Regulators Open Probe. Tesla Inc. faces developments in product & innovation.",
+      "evidence": "Tesla Recalls 85,000 Model Y Vehicles Over Steering Firmware Glitch, Safety Regulators Open Probe.",
+      "source_url": "https://marketwatch.com/story/tesla-recalls-model-y-steering-probe-demo-2026.html",
+      "published_at": "2026-10-13T07:30:00+00:00"
+    },
+    {
+      "symbol": "AAPL",
+      "company": "Apple Inc.",
+      "category": "Earnings & Revenue",
+      "sentiment": "neutral",
+      "score": 0.0,
+      "headline": "Apple Signs Multi-Year AI Cloud Infrastructure Agreement with Alphabet to Power Siri Intelligence. Apple Inc. faces developments in earnings & revenue.",
+      "evidence": "Apple Signs Multi-Year AI Cloud Infrastructure Agreement with Alphabet to Power Siri Intelligence.",
+      "source_url": "https://cnbc.com/2026/10/13/apple-signs-multiyear-ai-cloud-deal-with-alphabet-demo.html",
+      "published_at": "2026-10-13T08:00:00+00:00"
+    },
+    {
+      "symbol": "GOOGL",
+      "company": "Alphabet Inc.",
+      "category": "Earnings & Revenue",
+      "sentiment": "neutral",
+      "score": 0.0,
+      "headline": "Apple Signs Multi-Year AI Cloud Infrastructure Agreement with Alphabet to Power Siri Intelligence. Alphabet Inc. faces developments in earnings & revenue.",
+      "evidence": "Apple Signs Multi-Year AI Cloud Infrastructure Agreement with Alphabet to Power Siri Intelligence.",
+      "source_url": "https://cnbc.com/2026/10/13/apple-signs-multiyear-ai-cloud-deal-with-alphabet-demo.html",
+      "published_at": "2026-10-13T08:00:00+00:00"
+    },
+    {
+      "symbol": "MSFT",
+      "company": "Microsoft Corporation",
+      "category": "Contracts & Partnerships",
+      "sentiment": "positive",
+      "score": 1.0,
+      "headline": "Microsoft Azure Scores $3.2B Department of Defense AI Simulation Contract. Microsoft Corporation faces developments in contracts & partnerships.",
+      "evidence": "Microsoft Azure Scores $3.2B Department of Defense AI Simulation Contract.",
+      "source_url": "https://finance.yahoo.com/news/microsoft-azure-scores-dod-contract-demo-2026.html",
+      "published_at": "2026-10-13T08:15:00+00:00"
+    }
+  ],
+  "risk_factors": [
+    "Macroeconomic monetary policy announcements and interest rate fluctuations.",
+    "Potential pre-market gap-open volatility and liquidity imbalances before standard trading hours.",
+    "Headline risk from evolving regulatory inquiries and antitrust reviews."
+  ],
+  "disclaimer": "DISCLAIMER: This report is generated by the AI-Powered Stock Market Insights Bot for educational, academic, and informational research purposes only. It does NOT constitute financial, investment, legal, or trading advice. Past performance and news sentiment do not guarantee future stock price results. Never execute live trades based solely on automated sentiment signals.",
+  "data_freshness_warning": "Data collected as of 2026-10-13 09:34:32 UTC. Market data snapshots and technical indicators reflect the most recent available closing and pre-market quotes. Feeds may be delayed in accordance with provider terms."
+}
